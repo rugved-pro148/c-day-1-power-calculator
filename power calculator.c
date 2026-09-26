@@ -7,7 +7,7 @@ int main()
     printf("current= ",current);
     scanf("%d",&current);
     power=voltage*current;
-    printf("power=%d*%d=%d ",voltage,current,power);
+    printf("power=%d",power);
     return 0;
 
 
